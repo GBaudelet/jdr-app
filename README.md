@@ -1,8 +1,18 @@
-# React + Vite
+# FICHE DE PERSO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## OBJECTIF
 
-Currently, two official plugins are available:
+- permettre aux utilisateurs de créer, personnaliser, modifier, enregistrer et imprimer des fiches de personnage
+- Fonctionnalité :
+  création de fiche
+  ajout de bloc(éléments de création de la fiche)
+  gestion des utilisateur
+- technologie :
+  express
+  mysql3
+  dotenv
+  bcrypt.js
+  nodemon
+  react
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### CONCEPTION
