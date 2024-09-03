@@ -4,6 +4,7 @@
 
 - permettre aux utilisateurs de créer, personnaliser, modifier, enregistrer et imprimer des fiches de personnage
 - Fonctionnalité :
+  drag and drop
   création de fiche
   ajout de bloc(éléments de création de la fiche)
   gestion des utilisateur
