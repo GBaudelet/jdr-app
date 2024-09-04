@@ -18,12 +18,18 @@
 
 ### CONCEPTION
 
--4 pages principal
+-5 pages principal
 
 <!-- --> main:
 
 ->page de base du site avec des info concernant le site/app
 ->accès possible pour tous le monde
+
+<!--  -->
+
+<!--  --> Contact
+
+->formulaire de contact
 
 <!--  -->
 
@@ -48,6 +54,12 @@
 <!-- --> création de la fiche:
 
 ->accès réservé aux utilisateur
+
+<!--  -->
+
+<!--  --> autre page
+
+->cgu...
 
 #### BDD
 
